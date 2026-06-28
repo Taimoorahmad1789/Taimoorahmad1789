@@ -188,7 +188,6 @@ A showcase of my ML projects, skills, and professional background built with HTM
 </div>
 
 [0_CHECKLIST_2.md](https://github.com/user-attachments/files/29436892/0_CHECKLIST_2.md)
-# ✅ GitHub Profile Upgrade — Complete Checklist
-## Taimoor Ahmad | Taimoorahmad1789
+
 
 
