@@ -21,9 +21,9 @@
 
 ```python
 taimoor = {
-    "role"       : "Junior Machine Learning Engineer @ Smartlyserv",
-    "experience" : "1+ year professional industry experience",
-    "focus"      : ["End-to-End ML Pipelines", "Explainable AI (SHAP)", "Generative AI"],
+    "role"       : "Junior Machine Learning Engineer",
+    "experience" : "6+ months professional industry experience",
+    "focus"      : ["End-to-End ML Model", "Explainable AI (SHAP)", "Generative AI"],
     "domains"    : ["Healthcare AI", "Real Estate Analytics", "Predictive Modelling"],
     "education"  : "BS Software Engineering — Islamia University of Bahawalpur (2022–2026)",
     "location"   : "Pakistan 🇵🇰",
