@@ -175,7 +175,7 @@ A showcase of my ML projects, skills, and professional background built with HTM
 | | |
 |:---:|:---:|
 | 📧 **Email** | [taimoor.ahmad.ai@gmail.com](mailto:taimoor.ahmad.ai@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR-USERNAME](https://linkedin.com/in/YOUR-USERNAME) |
+| 💼 **LinkedIn** | [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/taimoor-ahmad50/) |
 | 🌐 **Portfolio** | [taimoorahmad1789.github.io/taimoor-portfolio](https://taimoorahmad1789.github.io/taimoor-portfolio) |
 | 📍 **Location** | Pakistan 🇵🇰 |
 
