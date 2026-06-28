@@ -191,18 +191,4 @@ A showcase of my ML projects, skills, and professional background built with HTM
 # ✅ GitHub Profile Upgrade — Complete Checklist
 ## Taimoor Ahmad | Taimoorahmad1789
 
-Everything you need is in the 5 files in this kit. Follow this checklist in order.
-
----
-
-## 📁 FILE KIT CONTENTS
-
-| File | Where it goes |
-|---|---|
-| `1_PROFILE_README.md` | New repo → `Taimoorahmad1789/Taimoorahmad1789` |
-| `2_HEART_README.md` | Replace `heart-pridiction/README.md` |
-| `3_REALESTATE_README.md` | Replace `real-estate/README.md` |
-| `4_MEDGUARD_README.md` | Replace `medguard-Ai/README.md` |
-| `5_LICENSE.txt` | Add as `LICENSE` (no extension) to all 3 repos |
-
 
