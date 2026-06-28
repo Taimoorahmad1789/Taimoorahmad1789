@@ -25,7 +25,7 @@ taimoor = {
     "experience" : "6+ months professional industry experience",
     "focus"      : ["End-to-End ML Model", "Explainable AI (SHAP)", "Generative AI"],
     "domains"    : ["Healthcare AI", "Real Estate Analytics", "Predictive Modelling"],
-    "education"  : "BS Software Engineering — Islamia University of Bahawalpur (2022–2026)",
+    "education"  : "BS Software Engineering — Islamia University of Bahawalpur (2023–2027)",
     "location"   : "Pakistan 🇵🇰",
     "open_to"    : "Collaborations · Freelance ML Projects · Research Opportunities"
 }
