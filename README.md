@@ -151,7 +151,7 @@ A showcase of my ML projects, skills, and professional background built with HTM
 
 ## 💼 Experience
 
-**Junior Machine Learning Engineer** — *Smartlyserv* &nbsp; `2024 – Present`
+**Junior Machine Learning Engineer** — `2025 – Present`
 
 - Designed end-to-end ML pipelines: ingestion → preprocessing → feature engineering → training → evaluation
 - Built and deployed interactive Streamlit apps for real-time predictions to business stakeholders
