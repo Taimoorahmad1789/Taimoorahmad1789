@@ -181,13 +181,15 @@ A showcase of my ML projects, skills, and professional background built with HTM
 
 *Open to collaborations, freelance ML projects, and research opportunities.*
 
+[0_CHECKLIST_2.md](https://github.com/user-attachments/files/29436892/0_CHECKLIST_2.md)
+
 </div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=100&section=footer" width="100%"/>
 </div>
 
-[0_CHECKLIST_2.md](https://github.com/user-attachments/files/29436892/0_CHECKLIST_2.md)
+
 
 
 
